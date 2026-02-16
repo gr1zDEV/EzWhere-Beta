@@ -1,0 +1,7 @@
+current-location: "<green>You are currently at <yellow>{x} {y} {z}</yellow> in world <yellow>{world}</yellow>.</green>"
+no-permission: "<red>You do not have permission to do that.</red>"
+only-player: "<red>Only players can use this command.</red>"
+history-loading: "<gray>Loading history...</gray>"
+history-opened: "<green>Opened where history for <yellow>{player}</yellow>.</green>"
+player-not-found: "<red>Player <yellow>{player}</yellow> is not online.</red>"
+empty-history: "<yellow>No history yet.</yellow>"
