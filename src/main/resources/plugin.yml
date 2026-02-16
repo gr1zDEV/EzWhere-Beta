@@ -1,0 +1,14 @@
+name: EZWhere
+version: 1.0.0
+main: org.ezinnovations.ezwhere.EZWhere
+api-version: '1.21'
+author: EZInnovations
+description: Record and browse player location snapshots.
+commands:
+  where:
+    description: Show your current location and browse history.
+    usage: /where [history] [player]
+permissions:
+  ezwhere.history.others:
+    description: Allows viewing another player's where history.
+    default: op

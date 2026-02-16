@@ -1,0 +1,9 @@
+storage: YAML
+max_history: 250
+store_yaw_pitch: false
+record_on_join: false
+record_on_quit: false
+date_time_format: "yyyy-MM-dd HH:mm:ss"
+
+gui:
+  title: "EZWhere History"
